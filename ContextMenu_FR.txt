@@ -1,0 +1,3 @@
+ContextMenu_FR = {
+    ContextMenu_DigMoats = "Creuser des douves",
+}
