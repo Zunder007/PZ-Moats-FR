@@ -1,0 +1,5 @@
+Sandbox_FR = {
+    Sandbox_Moats = "Mod Douves",
+    Sandbox_Moats_RemoveShores = "Cacher les rivages",
+    Sandbox_Moats_RemoveShores_tooltip = "<IMAGE:media/ui/SBOMoatsHideShore.png> <LINE> Le jeu de base montre les rivages mais cache les chemins entre deux tuiles d'eau. <LINE> Cette option masque les rivages autour des douves. <LINE> Quittez et rechargez pour que la modification prenne effet.",
+}
